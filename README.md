@@ -15,8 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
