@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3567-convert-date-to-binary](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3567-convert-date-to-binary) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3194-find-words-containing-character](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
