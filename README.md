@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3194-find-words-containing-character](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
