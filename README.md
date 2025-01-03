@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2881-split-strings-by-separator](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2881-split-strings-by-separator](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3567-convert-date-to-binary) |
