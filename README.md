@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
