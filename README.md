@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3567-convert-date-to-binary) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
 ## Number Theory
 |  |
 | ------- |
