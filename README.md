@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0125-valid-palindrome) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
