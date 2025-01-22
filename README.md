@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0058-length-of-last-word) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
