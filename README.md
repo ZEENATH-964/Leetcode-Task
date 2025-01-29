@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
