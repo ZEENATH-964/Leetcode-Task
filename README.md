@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
