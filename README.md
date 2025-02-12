@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
 ## Number Theory
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
