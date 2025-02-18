@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2491-smallest-even-multiple) |
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
