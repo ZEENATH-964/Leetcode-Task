@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
+| [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
 ## Number Theory
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
