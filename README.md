@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1603-running-sum-of-1d-array) |
