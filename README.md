@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Number Theory
 |  |
 | ------- |
