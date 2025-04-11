@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3567-convert-date-to-binary](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3567-convert-date-to-binary) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String Matching
 |  |
 | ------- |
