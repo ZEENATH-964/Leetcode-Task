@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
