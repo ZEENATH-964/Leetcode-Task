@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0434-number-of-segments-in-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
