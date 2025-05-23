@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -208,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
