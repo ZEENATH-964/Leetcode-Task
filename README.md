@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0857-positions-of-large-groups) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
