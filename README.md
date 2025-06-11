@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0782-jewels-and-stones) |
