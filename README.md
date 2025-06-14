@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0857-positions-of-large-groups) |
 | [0953-reverse-only-letters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
