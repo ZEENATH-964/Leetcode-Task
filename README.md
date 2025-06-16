@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
