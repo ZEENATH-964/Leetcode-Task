@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2491-smallest-even-multiple](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2752-sum-multiples) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1848-sum-of-unique-elements) |
 | [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1848-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
