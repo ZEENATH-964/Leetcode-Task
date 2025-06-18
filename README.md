@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1848-sum-of-unique-elements) |
 | [2107-find-unique-binary-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2107-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3412-permutation-difference-between-two-strings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1848-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
 | ------- |
