@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0412-fizz-buzz) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0541-reverse-string-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
