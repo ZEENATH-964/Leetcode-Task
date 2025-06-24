@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0941-sort-array-by-parity](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0941-sort-array-by-parity) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0941-sort-array-by-parity](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0941-sort-array-by-parity) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
