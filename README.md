@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
