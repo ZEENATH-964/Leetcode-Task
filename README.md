@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/1635-number-of-good-pairs) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
