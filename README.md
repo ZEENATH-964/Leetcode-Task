@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0941-sort-array-by-parity) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0409-longest-palindrome) |
@@ -232,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ZEENATH-964/Leetcode-Task/tree/master/0561-array-partition) |
